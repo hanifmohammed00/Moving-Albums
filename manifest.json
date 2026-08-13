@@ -2,6 +2,7 @@
   {
     "name": "Moving-Albums",
     "description": "Cursor-tracked 3D tilt effect on playlist, album, and artist cards — hover a card and it tilts toward your mouse in perspective with a soft glow.",
+    "preview": "preview.png",
     "main": "moving-albums.js",
     "readme": "https://raw.githubusercontent.com/hanifmohammed00/Moving-Albums/main/README.md",
     "authors": [
