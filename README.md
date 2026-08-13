@@ -69,3 +69,7 @@ Then delete `moving-albums.js` from `~/.config/spicetify/Extensions/` if you don
 ## Notes
 
 This is a personal/unofficial extension, not affiliated with or endorsed by Spotify.
+
+## License
+
+[MIT](LICENSE)
